@@ -22,6 +22,8 @@ yo fh-gen
  * Yeoman is a person with feelings and opinions, but is very easy to work with.
  * Yeoman can be too opinionated at times but is easily convinced not to be.
  * Feel free to [learn more about Yeoman](http://yeoman.io/).
+## refs
+[前端脚手架](https://github.com/CodeLittlePrince/blog/issues/18)
 
 ## License
 
@@ -35,4 +37,4 @@ MIT © [fenghai](https://github.com/)
 [daviddm-image]: https://david-dm.org/zhanfenghai/generator-fh-gen.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/zhanfenghai/generator-fh-gen
 
-[ref]: https://github.com/CodeLittlePrince/blog/issues/18
+
